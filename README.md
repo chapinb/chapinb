@@ -13,7 +13,7 @@ DFIR, skiing, & aviation nerd. Co-author of Learning Python for Forensics & Pyth
     <a href="https://www.linkedin.com/in/cdbryce/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/pythonic-forensics">
+  <a href="https://blog.pythonicforensics.com">
     <img src="https://img.shields.io/badge/Blog-blueviolet?style=for-the-badge&logo=medium&logoColor=white" alt="Blog Badge"/>
   </a>
   </a>
@@ -21,5 +21,3 @@ DFIR, skiing, & aviation nerd. Co-author of Learning Python for Forensics & Pyth
     <img src="https://img.shields.io/badge/Amazon-blue?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Books Badge"/>
   </a>
 </div>
-
-<hr />
