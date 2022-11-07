@@ -2,7 +2,7 @@ DFIR, skiing, & aviation nerd. Co-author of Learning Python for Forensics & Pyth
 
 <div id="badges">
   <a href="https://chapinb.com">
-    <img src="https://img.shields.io/badge/Website-blueviolet?style=for-the-badge&logo=internet&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-blueviolet?style=for-the-badge&logo=Firefox&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://twitter.com/chapindb">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -19,5 +19,8 @@ DFIR, skiing, & aviation nerd. Co-author of Learning Python for Forensics & Pyth
   </a>
   <a href="https://www.amazon.com/Chapin-Bryce/e/B07DSP7HX7?ref=sr_ntt_srch_lnk_1&qid=1665831894&sr=8-1">
     <img src="https://img.shields.io/badge/Amazon-blue?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Books Badge"/>
+  </a>
+  <a rel="me" href="https://infosec.exchange/@chapin">
+    <img src="https://img.shields.io/badge/Mastodon-blueviolet?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
 </div>
