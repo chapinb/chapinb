@@ -1,4 +1,4 @@
-DFIR, skiing, & aviation nerd. Co-author of Learning Python for Forensics & Python Forensics Cookbook. Rust novice.
+DFIR, skiing, & aviation nerd. Co-author of Learning Python for Forensics & Python Forensics Cookbook. Learning Rust to replace my slow Python code.
 
 <div id="badges">
   <a href="https://chapinb.com">
